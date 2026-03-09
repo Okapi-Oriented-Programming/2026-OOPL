@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2026-OOPL
 Proposal Stage for OOPL2026s  
 
@@ -38,5 +37,3 @@ Git Tutorial: [Git 教學](https://www.youtube.com/watch?v=hEGAkBcIlW4)
 
 Game reference: [遊戲參考](https://docs.google.com/spreadsheets/d/1Ko1tI49s_-VKwEh9KpvlPY9Alq1iO9WAj_NEDI5UXyQ/edit?gid=0#gid=0)  
 Discord Link: [dc群組連結(7 天內有效連結)](https://discord.gg/qJSWESub)
-
->>>>>>> 8c070eb394c67918f0418dc9d280b67751cba0d7
